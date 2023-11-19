@@ -5,6 +5,7 @@ The Project is based on Person Detection and tracking and I am mainly focusing o
 
 ## Output
 ![Output](https://user-images.githubusercontent.com/24716987/206210324-d879e0d1-5e23-432f-a3f4-0e8033b38298.gif)
+![Output](./YOLOv8_ENGINE/tracking%20by%20YOLOv8.gif)
 
 ## For executing
 ### Run Person_det_track.py
