@@ -52,4 +52,4 @@ times the Detection algorithm has to be run, i.e, instead of running the Detecti
 Object Detection model failure compensation - there might be some poses where SSD may not detect the person. Even occlusion can affect the detector significantly; that is where the tracking algorithm can greatly help us.
 
 Identity retrieval - Tracking of a human being can be used as a prior step in biometric face recognition. Keeping continuous track of a person will allow identifying a person at any time. Even if face identification is not possible at a particular set of frames, his identity can be found tracking.
-By Neeraj Menon
+By Jack Lee
